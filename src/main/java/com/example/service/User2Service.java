@@ -7,13 +7,7 @@ import org.springframework.stereotype.Service;
 
 import java.util.List;
 
-/**
- * @ClassName User1Service
- * @Description TODO
- * @Auther lbt
- * @Date 2019/6/28/028 10:12
- * @Version 1.0
- */
+
 @Service
 @SuppressWarnings("all")
 public class User2Service {

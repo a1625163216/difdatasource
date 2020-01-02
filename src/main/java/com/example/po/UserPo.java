@@ -5,14 +5,7 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 import lombok.ToString;
 
-/**
- * @ClassName UserPo
- * @Description TODO
- * @Auther lbt
- * @Date 2019/6/28/028 10:09
- * @Version 1.0
- */
-@Data
+
 @NoArgsConstructor
 @AllArgsConstructor
 @ToString

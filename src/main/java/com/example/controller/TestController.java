@@ -9,13 +9,12 @@ import org.springframework.web.bind.annotation.RestController;
 
 import java.util.List;
 
-/**
- * @ClassName TestController
- * @Description TODO
- * @Auther lbt
- * @Date 2019/6/28/028 14:13
- * @Version 1.0
- */
+
+/** 
+* @Description:  
+* @Author: xt 
+* @Date: 2020/1/2 
+*/
 @RestController
 public class TestController {
 

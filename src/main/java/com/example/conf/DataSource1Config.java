@@ -12,16 +12,8 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Primary;
 import org.springframework.core.io.support.PathMatchingResourcePatternResolver;
 import org.springframework.jdbc.datasource.DataSourceTransactionManager;
-
 import javax.sql.DataSource;
 
-/**
- * @ClassName DataSource2Config
- * @Description TODO
- * @Auther lbt
- * @Date 2019/6/28/028 10:07
- * @Version 1.0
- */
 @Configuration
 @MapperScan(basePackages = "com.example.mapper.test1", sqlSessionFactoryRef = "test1SqlSessionFactory")
 public class DataSource1Config {
